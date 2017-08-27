@@ -277,6 +277,7 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (70) Chidi Oguamanam (slack: @elcidchidi , github: @elcidchidi)
 (71) Sanni Sheriff, SheriffSanni, sheriff
 (72)Abdulhafeez Babatunde (slack: mista-oba, github: mistaOba) 
+(1) Emmanuel Godswill Ekanem (github:emjayekanem)  (slack:emjayekanem
 (73) Joda Opemipo, opsijay, Zaida-3dO 
 (74)Saheed Oladele (slack: kayrode1, github:suretrust)
 (75) Shittu Maroof Ayotunde, (slack: @maroof, github: dbugshe2)
@@ -315,7 +316,7 @@ Adebola Shalom, Slack:Shalombrain, Github: Shalombrain
 (100) Cosmas Udom, udom19, udom19
 (101)Temi Rufai, @temi on slack, @rufai on github
 (102) Vincent Joshua, Joshuavin101 , Joshuavin101
-Danie Ukwu, (slack: @chistel, github: @chistel)
+Danie Ukwu, (slack: @chistel, github: @chiste
 (103) Anwunah Sobechukwu (slack: missjay2805 github: Jhay95)
 (104) Alexander Ikelia (slack:@alex, github: @alexikelia)
 (105) Udoh Uwem Alozie, (slack: @owenatus github: @owenatus)
@@ -324,7 +325,7 @@ Danie Ukwu, (slack: @chistel, github: @chistel)
 (108) Ikidenyin Akpan, (slack: ikidenyinakpan, Github: GSupport)
 (109) Omesu Paul Chinedu (slack: SirG97, Github: SirG97)
 (110) Uche Madu (slack: @dreemer6, github: dreemer6)
-(111) Abigail Olalude (slack: @abigail, github: lola-dynamic)
+(111) Abigail Olalude (slack: @abigail, github: lola-dynamic
 (112) Ejalonibu Damilola(slack: @ejalonibudamilola96, github: ejalonibudamilola)
 (113) Daniel Folashade(slack: @beccadaniels, github: beccadaniel)
 (114) Chide Adejo, samara, samaara
@@ -333,11 +334,11 @@ Danie Ukwu, (slack: @chistel, github: @chistel)
 (117) Akpan Mmenyene Ekop (slack: @gift4jah115, github:mmenyene)
 (118) Umeh MaryBlessing (Slack: gentlebreeze, Github: marybngozi)
 (119) Enomfon Archibong(Slack: enarchibong: Github: enarchibong)
-(120) Dotun Jolaoso ( slack: @dotunj, github: dotunj)
+(120) Dotun Jolaoso ( slack: @dotunj, github: dotunj
 (121) Ifeanyi Okoye ( slack: @ifeanyi0, github: @NoRestrictions)
 (122) Ogbopina Moses ( slack: @ogbopinamoses, github: @pena56 )
 (123) Adeniran Samuel, sammie, sammuel09
 (124) Olushi Luqman Opemipo, codeshifu, codeshifu
 (125) Ogunwusi Tobiloba Samuel, Slack: ogunwusitsamuel, github: princekotas
 (126) Nnwankwo Wisdom , slack: nwankwowisdom96, github: widomd
-(127) Ibrahim Abdulkadir, Slack: lethalskillzz, github: lethalskillzz
+(127) Ibrahim Abdulkadir, Slack: lethalskillzz, github: lethal
