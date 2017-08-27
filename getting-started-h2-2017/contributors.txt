@@ -80,3 +80,4 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (79) Mopah Emmanuel Shewuri, mopahshewuri, mopilo
 (80) Oladipo Kehinde, (slack: @kehindeoladipo01, github: kehindeoladipo)
 (81) Abdulkarim Abdulrahman Ayoola, Slack: abdul, Github: lanre01
+(82) Omokehinde Igbekoyi, engr.omokehinde, omokehinde
