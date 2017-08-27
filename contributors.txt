@@ -339,4 +339,8 @@ Danie Ukwu, (slack: @chistel, github: @chistel)
 (123) Adeniran Samuel, sammie, sammuel09
 (124) Olushi Luqman Opemipo, codeshifu, codeshifu
 (125) Ogunwusi Tobiloba Samuel, Slack: ogunwusitsamuel, github: princekotas
+<<<<<<< HEAD
 (126) Ibrahim Abdulkadir, Slack: lethalskillzz, github: lethalskillzz
+=======
+(126) Nnwankwo Wisdom , slack: nwankwowisdom96, github: widomd
+>>>>>>> 93b45e85094097767a258485b451220f5bbbf229
