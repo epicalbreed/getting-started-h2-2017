@@ -268,6 +268,7 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (61) Kebe Eyong (slack:kebeeyong, github:kebeeyong)
 (62) Tolu Faith (slack: imani, github: ToluImani
 (63) Lasisi Tosin (slack: ridwan, github: ridwan099) 
+
 (64) = "Kevin Afoma Onwuagbanusi " Kentalogues "  "@"
 (65) Abu-Ekpeshie Peter (slack: @peteabu, Github: @peteabu)
 (66) Keresifon Ekpo(slack:@handsome9ice, github: handsome9ice)
@@ -278,7 +279,7 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (71) Sanni Sheriff, SheriffSanni, sheriff
 (72)Abdulhafeez Babatunde (slack: mista-oba, github: mistaOba) 
 (1) Emmanuel Godswill Ekanem (github:emjayekanem)  (slack:emjayekanem
-(73) Joda Opemipo, opsijay, Zaida-3dO 
+(1) Emmanuel Godswill Ekanem (github:emjayekanem)  (slack:emjayekanem)(73) Joda Opemipo, opsijay, Zaida-3dO 
 (74)Saheed Oladele (slack: kayrode1, github:suretrust)
 (75) Shittu Maroof Ayotunde, (slack: @maroof, github: dbugshe2)
 (76) Taofeek Aderoju (slack: @prolifichands, github: taotara)
@@ -317,6 +318,7 @@ Adebola Shalom, Slack:Shalombrain, Github: Shalombrain
 (101)Temi Rufai, @temi on slack, @rufai on github
 (102) Vincent Joshua, Joshuavin101 , Joshuavin101
 Danie Ukwu, (slack: @chistel, github: @chiste
+
 (103) Anwunah Sobechukwu (slack: missjay2805 github: Jhay95)
 (104) Alexander Ikelia (slack:@alex, github: @alexikelia)
 (105) Udoh Uwem Alozie, (slack: @owenatus github: @owenatus)
