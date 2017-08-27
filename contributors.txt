@@ -288,7 +288,7 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (77) Oluwatosin Akande (slack : tosinakande, github : tosinakande) 
 (78) Celestine Ekoh-Ordan, ceoehis, ceoehis
 (78) Ekebo Brown Etuk (slack: brownish, github: brown-son)
-(80) Mercy Michael Ikpe (Github: mercyikpe, Slack: mercy ikpe)
+((80) Mercy Michael Ikpe (Github: mercyikpe, Slack: mercy ikpe)
 (81) Nsikak John (Slack: nsikakjon, Github: nsikakjon)
 (82) Ashefor Michael (slack: @michael, github: ashefor)
 (83) Shaibu Shaibu (Slack: shaibu, Github: Shaibujnr)
@@ -344,3 +344,12 @@ Danie Ukwu, (slack: @chistel, github: @chiste
 (125) Ogunwusi Tobiloba Samuel, Slack: ogunwusitsamuel, github: princekotas
 (126) Nnwankwo Wisdom , slack: nwankwowisdom96, github: widomd
 (127) Ibrahim Abdulkadir, Slack: lethalskillzz, github: lethal
+(128) Emmanuel Godswill Ekanem, Slack:Emjayekanem github: Emjayekanem
+
+
+
+
+
+
+
+
