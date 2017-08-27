@@ -1,5 +1,4 @@
-﻿(1) Emmanuel Godswill Ekanem (github:emjayekanem)  (slack:emjayekanem)
-﻿(1) Nwanze Franklin, franko4don, @franko4don
+(1) Nwanze Franklin, franko4don, @franko4don
 (2) Dare Sunday (github: thenameisdrey) (slack: thedrey)
 name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (1) Nwanze Franklin, franko4don, @franko4don
